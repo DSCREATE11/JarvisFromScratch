@@ -1,3 +1,6 @@
+### AIM
+
+Here, we will attempt to make a small bag of words based single layer model in order to classify our commands into 4 basic categories namely [Fan, Lamp, Light, Camera].
 
 ### Pre-processing the data
 
