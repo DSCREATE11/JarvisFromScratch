@@ -96,3 +96,8 @@ Let us individually go through what each program file in the folder does:
 	
 - training_data.py
 	Contains the set of commands with their correct class as tuples to be used during training
+
+### How to Use ?
+
+Run the ``training.py`` program file, wait for the training to complete. On completion it would create and save two numpy matrices ``Weight.npy`` and ``bias.npy``.
+Then run ``testing.py``, enter any command to check the resulting z matrix as calculated by the model, remember that the order of classes is [fan, lamp, light, camera].
